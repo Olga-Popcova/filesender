@@ -14,7 +14,6 @@ If you want to add your FileSender installation to this list, send an email to f
 | Austria  | ACOnet  | [https://filesender.aco.net/](https://filesender.aco.net/)      | Nov 2012| March 2023 |
 | Belgium  | BELNET  | [https://filesender.belnet.be/](https://filesender.belnet.be/)      | Mar 2010| March 2023 |
 | Croatia  | SRCE    | [https://filesender.srce.hr/](https://filesender.srce.hr/)      | Oct 2010| March 2023 |
-| Cyprus | Frederick University | [https://transfer.frederick.ac.cy](https://transfer.frederick.ac.cy) | Sep 2021| 5 April 2023 |
 | Czech Republic| CESNET  | [https://filesender.cesnet.cz](https://filesender.cesnet.cz)      | Feb 2012| 5 April 2023 |
 | Denmark  | DeiC    | [https://filesender.deic.dk](https://filesender.deic.dk)      | Mar 2012| 5 April 2023|
 | Europe  | GÉANT    | [https://filesender.geant.org/](https://filesender.geant.org/)      | Sep 2010| 5 April 2023|
@@ -37,12 +36,14 @@ If you want to add your FileSender installation to this list, send an email to f
 | Slovenia  | ARNES    | [https://filesender.arnes.si/](https://filesender.arnes.si/)       | May 2011| 5 April 2023 |
 | Spain    | RedIRIS  | [https://filesender.rediris.es](https://filesender.rediris.es)      | Mar 2017| 5 April 2023 |
 | Switzerland  | SWITCH  | [https://filesender.switch.ch](https://filesender.switch.ch)      | Sep 2012| 5 April 2023 |
+| Turkey  | ULAKBIM  | [https://filesender.ulakbim.gov.tr](https://filesender.ulakbim.gov.tr) | Feb 2019| 11 October 2023 |
 | Ukraine | URAN | [https://filesender.uran.ua/filesender/](https://filesender.uran.ua/filesender/) | Mar 2018| 5 April 2023 |
 
 ## HE&R Community installations - Europe & Middle East
 | Country/Region|NREN/Org  | Service URL          | Known since| Last checked |
 | --- | --- | --- |---|---|
 | Austria  | Institute for Advanced Studies  | [https://filesender.ihs.ac.at](https://filesender.ihs.ac.at)  | Jan 2014| March 2023 |
+| Cyprus | Frederick University | [https://transfer.frederick.ac.cy](https://transfer.frederick.ac.cy) | Sep 2021| 5 April 2023 |
 | Germany  | Helmholtz Federated IT Services (HIFIS)/German Cancer Research Center (DKFZ) | [https://filesender.hifis.dkfz.de/](https://filesender.hifis.dkfz.de/) | Aug 2023| 9 August 2023|
 | Spain/Sevilla  | Universidad Internacional de Andalucia| [https://filesender.unia.es/](https://filesender.unia.es/)  | May 2014| 5 April 2023 |
 
